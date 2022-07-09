@@ -1,0 +1,8 @@
+/.cache
+/.github
+/functions/\[\[path\]\].js
+/functions/\[\[path\]\].js.map
+/public
+.env
+/app/styles/tailwind.css
+/server.js
