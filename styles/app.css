@@ -1,3 +1,12 @@
+:root {
+  --ppc-primary-cream: hsl(30, 38%, 92%);
+  --ppc-primary-dark-cyan: hsl(158, 36%, 37%);
+  --ppc-neutral-dark-blue: hsl(212, 21%, 14%);
+  --ppc-neutral-gray-blue: hsl(228, 12%, 48%);
+  --ppc-mobile-image: url("/images/ppc/image-product-mobile.jpg");
+  --ppc-desktop-image: url("/images/ppc/image-product-desktop.jpg");
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
